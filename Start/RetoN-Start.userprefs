@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8E1FCCF4-1FA7-4C23-86B0-19C78B155AA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RetoN/ToDoItem.cs">
+    <Files>
+      <File FileName="RetoN/ToDoActivity.cs" Line="66" Column="14" />
+      <File FileName="RetoN/ToDoBroadcastReceiver.cs" Line="94" Column="32" />
+      <File FileName="RetoN/packages.config" Line="1" Column="1" />
+      <File FileName="RetoN/ToDoItemAdapter.cs" Line="1" Column="1" />
+      <File FileName="RetoN/ToDoItem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RetoN-Start" expanded="True">
+            <Node name="RetoN" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="ToDoItem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RetoN PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
